@@ -82,4 +82,16 @@ Bogotá, Colombia
 
 🌐 Desarrollo Web · Soporte Técnico · Automatización · Soluciones Digitales
 
+## ✅ Estado del proyecto
+
+Las herramientas incluidas han sido probadas en entorno Windows y actualmente funcionan correctamente.
+
+## 🔄 Próximas mejoras
+
+- Exportar reportes del sistema a archivos TXT o CSV.
+- Añadir alertas básicas de uso elevado de memoria y almacenamiento.
+- Permitir respaldos con selección de destino.
+- Añadir filtros y reglas personalizadas al organizador de archivos.
+- Incorporar nuevas utilidades de diagnóstico y automatización.
+
 [LinkedIn](https://www.linkedin.com/in/elkin-tovar-57b4bb323)
